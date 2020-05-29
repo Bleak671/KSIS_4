@@ -1,0 +1,6 @@
+D:\repos\KSIS_4\KSIS_4\bin\Debug\KSIS_4.exe.config
+D:\repos\KSIS_4\KSIS_4\bin\Debug\KSIS_4.exe
+D:\repos\KSIS_4\KSIS_4\bin\Debug\KSIS_4.pdb
+D:\repos\KSIS_4\KSIS_4\obj\Debug\KSIS_4.exe
+D:\repos\KSIS_4\KSIS_4\obj\Debug\KSIS_4.pdb
+D:\repos\KSIS_4\KSIS_4\obj\Debug\KSIS_4.csprojAssemblyReference.cache
